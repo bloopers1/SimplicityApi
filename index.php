@@ -1,5 +1,5 @@
 <?php
-$password = "sex123";
+$password = "lol123";
 
 if (isset($_POST['password']) && $_POST['password'] === $password) {
     $showPage = true;
